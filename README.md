@@ -1,3 +1,9 @@
 ![alt text](https://lh5.googleusercontent.com/CGS2yO1QFLVWLntidtqmtEHnFrwANFy_ehN95129PWOByLkvX8YjRKz8_iqmto6phrZcE7PDZsGkTE1Ze1NJVsdlC8bk9vx0nhUTEDS1DCKWKYLw6cNsAdWsGudD26-fTg=w1280)
 
-                                                                # Open-Bot-DE
+# Open-Bot-DE
+Wilkommen bei dem Open-Source Projekt "Open-Bot", das ist die Deutsche Version!
+Bei diesem Projekt geht es um Discord Bots in Python, diese Anleitung wird euch durch das Setup der Bots leiten, bis zum Thema Bot-Hosting!
+Dieses Projekt wird auch noch viele Updates bekommen, die auch schon in Planung sind!
+
+# Installation der Software
+
