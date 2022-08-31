@@ -1,3 +1,3 @@
-![alt text](https://drive.google.com/file/d/1MDlehW4rBT6f5YrFLcDeLI5G5qVTtUpT/view?usp=sharing)
+![alt text](https://lh5.googleusercontent.com/CGS2yO1QFLVWLntidtqmtEHnFrwANFy_ehN95129PWOByLkvX8YjRKz8_iqmto6phrZcE7PDZsGkTE1Ze1NJVsdlC8bk9vx0nhUTEDS1DCKWKYLw6cNsAdWsGudD26-fTg=w1280)
 
 # Open-Bot-DE
