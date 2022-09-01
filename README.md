@@ -1,4 +1,4 @@
-![alt text](https://lh4.googleusercontent.com/e0EdIIO_YC_Mta-wAZBcoAyfnCqvHMjwUR-JijNYXFEEfUAeUUawSn457IxIZf67yG64p3nJtXcIlqoCqiDK2_1_13FEByvz_MvJLIV3-uPcCDGmKd8PVBpSiCqSSgQATQ=w1280)
+
 
 # Open-Bot-DE
 Wilkommen bei dem Open-Source Projekt "Open-Bot", das ist die Deutsche Version!
@@ -15,6 +15,8 @@ WICHTIG: DU MUSST MINDESTENS PYTHON 3.8 haben!
 # Erstellen der Bots
 Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen
 So sollte es aussehen: 
+
+[Contribution guidelines for this project]()
 
 
 
