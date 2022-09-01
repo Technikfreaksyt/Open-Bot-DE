@@ -1,4 +1,4 @@
-![alt text](https://lh5.googleusercontent.com/CGS2yO1QFLVWLntidtqmtEHnFrwANFy_ehN95129PWOByLkvX8YjRKz8_iqmto6phrZcE7PDZsGkTE1Ze1NJVsdlC8bk9vx0nhUTEDS1DCKWKYLw6cNsAdWsGudD26-fTg=w1280)
+![alt text](https://lh4.googleusercontent.com/e0EdIIO_YC_Mta-wAZBcoAyfnCqvHMjwUR-JijNYXFEEfUAeUUawSn457IxIZf67yG64p3nJtXcIlqoCqiDK2_1_13FEByvz_MvJLIV3-uPcCDGmKd8PVBpSiCqSSgQATQ=w1280)
 
 # Open-Bot-DE
 Wilkommen bei dem Open-Source Projekt "Open-Bot", das ist die Deutsche Version!
