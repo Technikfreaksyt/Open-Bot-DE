@@ -12,7 +12,7 @@ installieren.
 Jetzt musst du mit dem Befehl(py -3 -m pip install -U discord.py[voice]) Discordpy installieren.
 WICHTIG: DU MUSST MINDESTENS PYTHON 3.8 haben!
 
-#Erstellen der Bots
+# Erstellen der Bots
 Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen
 So sollte es aussehen: 
 
