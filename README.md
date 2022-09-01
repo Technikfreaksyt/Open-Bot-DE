@@ -15,7 +15,8 @@ WICHTIG: DU MUSST MINDESTENS PYTHON 3.8 haben!
 #Erstellen der Bots
 Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen
 So sollte es aussehen: 
-![alt test]
-(https://lh5.googleusercontent.com/X8zn8958WxJB3FFeZCK5AuMa0Qh5F4ETrWSmtcNU16f9Hgop8fjBeEbXALzzzYzNK9RHkW7Acc-BlO2H6MB-MwQTh-2TaQEUQjezfYWfTYbXKVH2Tk3L7JMLkiyb2Rkt=w1280)
+
+![alt test](https://lh5.googleusercontent.com/X8zn8958WxJB3FFeZCK5AuMa0Qh5F4ETrWSmtcNU16f9Hgop8fjBeEbXALzzzYzNK9RHkW7Acc-BlO2H6MB-MwQTh-2TaQEUQjezfYWfTYbXKVH2Tk3L7JMLkiyb2Rkt=w1280))
+
 
 
