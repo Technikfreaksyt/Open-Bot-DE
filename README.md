@@ -17,6 +17,5 @@ Hier(https://discord.com/developers/applications) musst du 2 Applications erstel
 So sollte es aussehen: 
 
 
-![alt text](https://lh4.googleusercontent.com/e0EdIIO_YC_Mta-wAZBcoAyfnCqvHMjwUR-JijNYXFEEfUAeUUawSn457IxIZf67yG64p3nJtXcIlqoCqiDK2_1_13FEByvz_MvJLIV3-uPcCDGmKd8PVBpSiCqSSgQATQ=w1280)
 
 
