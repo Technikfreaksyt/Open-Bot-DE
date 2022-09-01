@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/OPENBOT/Python-logo-notext.svg.png?token=GHSAT0AAAAAABXU5RI5XJXBNBECNJYSZAJIYYQ7U7A)
 
 
 # Open-Bot-DE
