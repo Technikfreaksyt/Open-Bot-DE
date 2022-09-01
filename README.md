@@ -1,3 +1,4 @@
+[Contribution guidelines for this project](/OPENBOT/Python-logo-notext.svg.png)
 
 
 # Open-Bot-DE
@@ -16,7 +17,6 @@ WICHTIG: DU MUSST MINDESTENS PYTHON 3.8 haben!
 Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen
 So sollte es aussehen: 
 
-[Contribution guidelines for this project]()
 
 
 
