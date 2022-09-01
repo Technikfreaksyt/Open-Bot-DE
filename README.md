@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/OPENBOT/Python-logo-notext.svg.png?token=GHSAT0AAAAAABXU5RI5XJXBNBECNJYSZAJIYYQ7U7A)
+![alt text](https://lh4.googleusercontent.com/e0EdIIO_YC_Mta-wAZBcoAyfnCqvHMjwUR-JijNYXFEEfUAeUUawSn457IxIZf67yG64p3nJtXcIlqoCqiDK2_1_13FEByvz_MvJLIV3-uPcCDGmKd8PVBpSiCqSSgQATQ=w1280)
 
 
 # Open-Bot-DE
