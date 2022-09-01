@@ -1,4 +1,4 @@
-[Contribution guidelines for this project](/OPENBOT/Python-logo-notext.svg.png)
+![alt text](http://url/to/img.png)
 
 
 # Open-Bot-DE
