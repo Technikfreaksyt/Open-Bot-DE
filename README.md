@@ -18,9 +18,12 @@ erstellen.
 Dann musst du bei jeder im Bereich Bot, die Ersten beiden Optionen an, und die letzten drei aus.
 Dann gehst du bie beiden in den Bereich OAuth2, wählst dann "bot" und applications.commands" aus, dann stellst du die Berechtigungen auf Administrator.
 Jetzt musst du die Bots nur noch auf deinen Jeweiligen Server packen, dafür nutzt du den Einladungslink, der dir generiert wurde.
-Als letztes musst wieder in den Bereich Bot gehen und auf "Reset Token" drücken, den Token musst darfst du nicht weitergeben, sonst kann jeder mit deinem   
-Bot machen was er will, den Token solltest du auch sichern, sonst kannst du den Bot nicht starten.
+Als letztes musst wieder in den Bereich Bot gehen und auf "Reset Token" drücken, den Token musst darfst du nicht weitergeben, sonst kann jeder mit deinem  Bot machen was er will, den Token solltest du auch sichern, sonst kannst du den Bot nicht starten.
 Den Token kannst du übrigens immer zurrücksetzen!
+
+#Bearbeiten der Skripte
+Du musst in Discord den Einstellungen unter Erweitert den Entwicklermodus aktivieren.
+Jezt musst du dir die Skripte aus dem Ordner Skripte herunterladen.
 
 
 
