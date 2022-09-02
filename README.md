@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/OPENBOT/Python-logo-notext.svg.png?token=GHSAT0AAAAAABXU5RI52T3NTX2QSTUNCA5AYYSBDEQ) <img src="https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/OPENBOT/Python-logo-notext.svg.png?token=GHSAT0AAAAAABXU5RI52T3NTX2QSTUNCA5AYYSBDEQ.type" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/OPENBOT/Python-logo-notext.svg.png?token=GHSAT0AAAAAABXU5RI52T3NTX2QSTUNCA5AYYSBDEQ" width="500" height="500">
 
 # Open-Bot-DE
 Wilkommen bei dem Open-Source Projekt "Open-Bot", das ist die Deutsche Version!
