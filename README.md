@@ -14,7 +14,8 @@ WICHTIG: DU MUSST MINDESTENS PYTHON 3.8 haben!
 
 # Erstellen der Bots
 Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen
-So sollte es aussehen: 
+So sollte es aussehen:
+<img src="https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/OPENBOT_PICTURES/Bildschirmfoto%20vom%202022-09-01%2020-23-28.png?token=GHSAT0AAAAAABXU5RI44ULWGLN5HEI5J4NGYYSBKMQ" width="300" height="400">
 
 
 
