@@ -13,8 +13,12 @@ Jetzt musst du mit dem Befehl(py -3 -m pip install -U discord.py[voice]) Discord
 WICHTIG: DU MUSST MINDESTENS PYTHON 3.8 haben!
 
 # Erstellen der Bots
-Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen
-So sollte es aussehen:
+Hier(https://discord.com/developers/applications) musst du 2 Applications erstellen, jetzt musst du einmal in jede Application reingehen und einen Bot 
+erstellen.
+Dann musst du bei jeder im Bereich Bot, die Ersten beiden Optionen an, und die letzten drei aus.
+Dann gehst du bie beiden in den Bereich OAuth2, wählst dann "bot" und applications.commands" aus, dann stellst du die Berechtigungen auf Administrator.
+Jetzt musst du die Bots nur noch auf deinen Jeweiligen Server packen, dafür nutzt du den Einladungslink, der dir generiert wurde.
+
 
 
 
