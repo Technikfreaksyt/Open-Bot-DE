@@ -24,6 +24,7 @@ Den Token kannst du übrigens immer zurrücksetzen!
 ### Bearbeiten der Skripte
 Du musst in Discord den Einstellungen unter Erweitert den Entwicklermodus aktivieren.
 Jezt musst du dir die Skripte aus dem Ordner Skripte herunterladen.
+In der letzen Zeile musst du die Token deiner Bots eingeben, 
 
 
 
