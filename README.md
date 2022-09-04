@@ -45,6 +45,24 @@ gibt es die Funkiion, das der Bot auf eine Nachricht antwortet:
 
 Mit dieser Funktion kann der Bot schon sehr viel, darüber läuft die Support und Voice Funktion.
 
+### Status vom bot einstellen
+```
+activity = discord.Game(name="Akivität deines Bots", type=1)
+```
+Das "Aktivität deines Bots" kannst du gegen deine eigene Statusmeldung austauschen z.B "//help" oder was auch immer
+WICHTIG : Die Anführungszeichen darfst du nicht löschen
+
+### Einrichten der Welcome und Autoroles Funktion
+```
+autoroles = {
+    "ID of your Server": {'memberoles': ["Memberroles"],  }
+```
+Hier müsst ihr bei "ID of your Server" die ID von Eurem Server eingben und bei dem "Memberroles" die Standard Rollen für normale Mitglieder.
+Bei den Memberoles müsst ihr auch die ID's der Rollen einfügen.
+Jetzt musst du nur noch bei ""ID from your Welcome Channel" die ID vom Wilkommenschannel eingeben.
+|c
+
+
 ### Einrichten der Support Funktion
 ```
 channel = await guild.create_text_channel(str(message.author))
@@ -55,6 +73,7 @@ channel = await guild.create_text_channel(str(message.author))
 In diesem Skript werdet ihr einmal "Member" und "Staff" sehen
 Member oder Staff müsst ihr durch die jeweiligen Rollen austauschen, Member für die Rollen der Normalen Benutzer(Die haben kein Zugriff auf den Kanal" und Staff für die Rollen vom Team(Haben vollen Zugriff auf den Kanal).
 Die Berechtigungen könnt ibr aber auch anpassen, den Block mit den Rechten müsst ihr für jede Rolle anpasssen.
+"ID from your Welcome Channel"
 
 
 
