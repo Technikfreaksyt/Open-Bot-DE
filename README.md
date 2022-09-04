@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/LOGO.png?token=GHSAT0AAAAAABXU5RI4PLNEBQANWKMJSEY6YYSBOPA" width="400" height="400">
+<img src="https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/LOGO.png?token=GHSAT0AAAAAABXU5RI423LWSV4RUWNJQ4T4YYU2FEQ" width="400" height="400">
 
 # Open-Bot-DE
 Wilkommen bei dem Open-Source Projekt "Open-Bot", das ist die Deutsche Version!
