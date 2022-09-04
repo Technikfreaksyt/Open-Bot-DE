@@ -21,11 +21,14 @@ Jetzt musst du die Bots nur noch auf deinen Jeweiligen Server packen, dafür nut
 Als letztes musst wieder in den Bereich Bot gehen und auf "Reset Token" drücken, den Token musst darfst du nicht weitergeben, sonst kann jeder mit deinem  Bot machen was er will, den Token solltest du auch sichern, sonst kannst du den Bot nicht starten.
 Den Token kannst du übrigens immer zurrücksetzen!
 
-### Bearbeiten der Skripte
+### Skripte für die Verbindung mit Discord bearbeiten
 Du musst in Discord den Einstellungen unter Erweitert den Entwicklermodus aktivieren.
 Jezt musst du dir die Skripte aus dem Ordner Skripte herunterladen.
 In der letzen Zeile musst du die Token deiner Bots eingeben, also im Main-Bot  Skript den Token von deinem normalen Bot und im Server-Stats Bot Skript 
 musst du den Token von deinem Server Stats Bot eingeben. 
+
+### Konfigurieren der Skripte
+
 Bei dem Event:
 ```
 @client.event
@@ -40,6 +43,7 @@ gibt es die Funkiion, das der Bot auf eine Nachricht antwortet:
         await message.channel.send('Hello!')
 ```
 
+Mit dieser Funktion kann der Bot schon sehr viel, darüber läuft die Support und Voice Funktion.
 
 
 
