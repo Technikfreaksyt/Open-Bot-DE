@@ -27,7 +27,7 @@ Jezt musst du dir die Skripte aus dem Ordner Skripte herunterladen.
 In der letzen Zeile musst du die Token deiner Bots eingeben, also im Main-Bot  Skript den Token von deinem normalen Bot und im Server-Stats Bot Skript 
 musst du den Token von deinem Server Stats Bot eingeben. 
 
-### Konfigurieren der Skripte
+### Erkärung einer Funktion
 
 Bei dem Event:
 ```
@@ -44,6 +44,18 @@ gibt es die Funkiion, das der Bot auf eine Nachricht antwortet:
 ```
 
 Mit dieser Funktion kann der Bot schon sehr viel, darüber läuft die Support und Voice Funktion.
+
+### Einrichten der Support Funktion
+```
+channel = await guild.create_text_channel(str(message.author))
+         await channel.set_permissions(message.author,send_messages=True,read_message_history=True,read_messages=True)
+         await channel.set_permissions(discord.utils.get(message.author.guild.roles, id = ("Member") ),send_messages=False,read_messages =                        False,read_message_history=False)
+         await channel.set_permissions(discord.utils.get(message.author.guild.roles, id = ("Staff") ),send_messages=True,read_messages =                          True,read_message_history=True)
+```
+In diesem Skript werdet ihr einmal "Member" und "Staff" sehen
+Member oder Staff müsst ihr durch die jeweiligen Rollen austauschen, Member für die Rollen der Normalen Benutzer(Die haben kein Zugriff auf den Kanal" und Staff für die Rollen vom Team(Haben vollen Zugriff auf den Kanal).
+Die Berechtigungen könnt ibr aber auch anpassen, den Block mit den Rechten müsst ihr für jede Rolle anpasssen.
+
 
 
 
