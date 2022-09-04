@@ -27,10 +27,10 @@ Jezt musst du dir die Skripte aus dem Ordner Skripte herunterladen.
 In der letzen Zeile musst du die Token deiner Bots eingeben, also im Main-Bot  Skript den Token von deinem normalen Bot und im Server-Stats Bot Skript 
 musst du den Token von deinem Server Stats Bot eingeben. 
 Bei dem 
-´´´
+```
 @client.event
 async def on_message(message):
-´´´
+```
 
 
 
