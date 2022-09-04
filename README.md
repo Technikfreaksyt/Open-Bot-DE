@@ -26,15 +26,19 @@ Du musst in Discord den Einstellungen unter Erweitert den Entwicklermodus aktivi
 Jezt musst du dir die Skripte aus dem Ordner Skripte herunterladen.
 In der letzen Zeile musst du die Token deiner Bots eingeben, also im Main-Bot  Skript den Token von deinem normalen Bot und im Server-Stats Bot Skript 
 musst du den Token von deinem Server Stats Bot eingeben. 
-Bei dem 
+Bei dem Event:
 ```
 @client.event
 async def on_message(message):
+    if message.author == client.user:
+        return
 ```
+gibt es die Funkiion, das der Bot auf eine Nachricht antwortet:
 
-
-
-
+```
+    if message.content.startswith('hello'):
+        await message.channel.send('Hello!')
+```
 
 
 
