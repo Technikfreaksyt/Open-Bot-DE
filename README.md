@@ -76,6 +76,13 @@ Die Berechtigungen könnt ibr aber auch anpassen, den Block mit den Rechten müs
 "ID from your Welcome Channel"
 
 
+### Hosting
+Damit dein Bot immer funktioniert, musst du deinen Bot irgendwo hosten, du kannst es z.B über deinen Computer macehn, der muss dann aber dauerhaft an 
+sein, damit der Bot immer läuft.
+Du kannst zum Hosten von deinem Bot einen Raspberry Pi 4 Hosten (https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb), am besten ist der mit 4GB Ram dafür,dazu empfehle ich dir ein Gehäuse mit Lüfter!
+Der Pi verbraucht sehr wenig Strom, darauf muust du nur die Discord Python Libary installieren und das Skript starten. Damit der Remotezugriff
+funktioniert, musst du VNC-Server in den Einstellungen Aktivieren (Einstellungen>Raspberry-Pi_Konfiguration>Schnittstellen>VNC), dann in der Raspberry Pi Konfiguration(Terminal>"sudo raspi-config">Display Options>VNC Resoulution>1920x1080)
+
 
 
 
