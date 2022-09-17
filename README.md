@@ -58,7 +58,12 @@ autoroles = {
 Hier müsst ihr bei "ID of your Server" die ID von Eurem Server eingben und bei dem "Memberroles" die Standard Rollen für normale Mitglieder.
 Bei den Memberoles müsst ihr auch die ID's der Rollen einfügen.
 Jetzt musst du nur noch bei ""ID from your Welcome Channel" die ID vom Wilkommenschannel eingeben.
-
+Du kannst auch eine eigene Wilkommennachricht machen, du kannst das
+```
+"Hi {member.mention} willkommen auf meinem Server!"
+```
+Mit deiner eigenen NAchricht austauschen, wenn ein neues Mitglied markiert werden soll, also das so etwas wie : @technikfeaks stehen soll, musst du in der NAchricht 
+ein {member.mention} haben. 
 
 
 ### Einrichten der Support Funktion
