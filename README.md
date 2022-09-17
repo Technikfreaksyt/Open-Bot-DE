@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Technikfreaksyt/Open-Bot-DE/main/LOGO.png?token=GHSAT0AAAAAABXU5RI5252FGI6CV6HFPBQGYY2GTNQ" width="400" height="400">
-
 # Open-Bot-DE
 Wilkommen bei dem Open-Source Projekt "Open-Bot", das ist die Deutsche Version!
 Bei diesem Projekt geht es um Discord Bots in Python, diese Anleitung wird euch durch das Setup der Bots leiten, bis zum Thema Bot-Hosting!
