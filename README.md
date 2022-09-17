@@ -58,7 +58,7 @@ autoroles = {
 Hier müsst ihr bei "ID of your Server" die ID von Eurem Server eingben und bei dem "Memberroles" die Standard Rollen für normale Mitglieder.
 Bei den Memberoles müsst ihr auch die ID's der Rollen einfügen.
 Jetzt musst du nur noch bei ""ID from your Welcome Channel" die ID vom Wilkommenschannel eingeben.
-|c
+
 
 
 ### Einrichten der Support Funktion
