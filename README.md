@@ -84,7 +84,11 @@ Damit dein Bot immer funktioniert, musst du deinen Bot irgendwo hosten, du kanns
 sein, damit der Bot immer läuft.
 Du kannst zum Hosten von deinem Bot einen Raspberry Pi 4 Hosten (https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb), am besten ist der mit 4GB Ram dafür,dazu empfehle ich dir ein Gehäuse mit Lüfter!
 Der Pi verbraucht sehr wenig Strom, darauf muust du nur die Discord Python Libary installieren und das Skript starten. Damit der Remotezugriff
-funktioniert, musst du VNC-Server in den Einstellungen Aktivieren (Einstellungen>Raspberry-Pi_Konfiguration>Schnittstellen>VNC), dann in der Raspberry Pi Konfiguration(Terminal>"sudo raspi-config">Display Options>VNC Resoulution>1920x1080)
+funktioniert, musst du VNC-Server in den Einstellungen Aktivieren (Einstellungen>Raspberry-Pi_Konfiguration>Schnittstellen>VNC), dann in der Raspberry Pi Konfiguration, dafür gehst du ins Terminal
+```
+sudo raspi-config
+```
+(Display Options>VNC Resoulution>1920x1080)
 
 
 
